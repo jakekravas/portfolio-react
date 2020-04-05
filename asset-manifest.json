@@ -1,23 +1,29 @@
 {
   "files": {
-    "main.css": "/portfolio-react/static/css/main.5f361e03.chunk.css",
-    "main.js": "/portfolio-react/static/js/main.d7bfa0a3.chunk.js",
-    "main.js.map": "/portfolio-react/static/js/main.d7bfa0a3.chunk.js.map",
+    "main.css": "/portfolio-react/static/css/main.84de571f.chunk.css",
+    "main.js": "/portfolio-react/static/js/main.d6c964e2.chunk.js",
+    "main.js.map": "/portfolio-react/static/js/main.d6c964e2.chunk.js.map",
     "runtime-main.js": "/portfolio-react/static/js/runtime-main.70e43ac6.js",
     "runtime-main.js.map": "/portfolio-react/static/js/runtime-main.70e43ac6.js.map",
-    "static/js/2.3d0c22cf.chunk.js": "/portfolio-react/static/js/2.3d0c22cf.chunk.js",
-    "static/js/2.3d0c22cf.chunk.js.map": "/portfolio-react/static/js/2.3d0c22cf.chunk.js.map",
+    "static/js/2.a382697e.chunk.js": "/portfolio-react/static/js/2.a382697e.chunk.js",
+    "static/js/2.a382697e.chunk.js.map": "/portfolio-react/static/js/2.a382697e.chunk.js.map",
     "index.html": "/portfolio-react/index.html",
-    "precache-manifest.2b68ba696c6654afb440409f416693fe.js": "/portfolio-react/precache-manifest.2b68ba696c6654afb440409f416693fe.js",
+    "precache-manifest.6c916ba8bfd166b01b0ebed5685ceb4a.js": "/portfolio-react/precache-manifest.6c916ba8bfd166b01b0ebed5685ceb4a.js",
     "service-worker.js": "/portfolio-react/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/portfolio-react/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.3d0c22cf.chunk.js.LICENSE.txt": "/portfolio-react/static/js/2.3d0c22cf.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/portfolio-react/static/media/logo.5d5d9eef.svg"
+    "static/css/main.84de571f.chunk.css.map": "/portfolio-react/static/css/main.84de571f.chunk.css.map",
+    "static/js/2.a382697e.chunk.js.LICENSE.txt": "/portfolio-react/static/js/2.a382697e.chunk.js.LICENSE.txt",
+    "static/media/DoubleMeaningDictionary.png": "/portfolio-react/static/media/DoubleMeaningDictionary.f828c433.png",
+    "static/media/Password-Generator.png": "/portfolio-react/static/media/Password-Generator.059faa10.png",
+    "static/media/Weather-Web_app-a1.png": "/portfolio-react/static/media/Weather-Web_app-a1.0a0ac3cb.png",
+    "static/media/style.css": "/portfolio-react/static/media/about4.df3dd19d.jpg",
+    "static/media/burger-logger.png": "/portfolio-react/static/media/burger-logger.af05db03.png",
+    "static/media/note-taker.png": "/portfolio-react/static/media/note-taker.5fe0225d.png",
+    "static/media/rateyourroommate.png": "/portfolio-react/static/media/rateyourroommate.673edcaf.png"
   },
   "entrypoints": [
     "static/js/runtime-main.70e43ac6.js",
-    "static/js/2.3d0c22cf.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.d7bfa0a3.chunk.js"
+    "static/js/2.a382697e.chunk.js",
+    "static/css/main.84de571f.chunk.css",
+    "static/js/main.d6c964e2.chunk.js"
   ]
 }
